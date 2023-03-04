@@ -11,3 +11,6 @@ tasks:
       unzip awscliv2.zip
       sudo ./aws/install
       cd $THEIA_WORKSPACE_ROOT
+ vscode:
+    extensions:
+      - 42Crunch.vscode-openapi
